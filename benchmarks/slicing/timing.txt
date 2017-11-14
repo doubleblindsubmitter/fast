@@ -1,0 +1,100 @@
+== ClanLib-4.0.0 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== HippoDraw-1.21.3 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== QuantLib-0.9.7 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== a2ps-4.10.4 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== acct-6.5 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== barcode-0.98 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== cvs-1.12.10 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== dico-2.2 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== ed-1.2 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== ed-1.6 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== enscript-1.4.0 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== enscript-1.6.5 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== enscript-1.6.5.1 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== enscript-1.6.5.2 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== findutils-4.4.2 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== libkate-0.3.8 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== make-3.82 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== radius-1.0 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== wdiff-0.5 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
+== which-2.20 ==
+Command exited with non-zero status 126
+0m 0.00s
+Command exited with non-zero status 126
+0m 0.00s
