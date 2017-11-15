@@ -6,14 +6,16 @@ the code, which costs O(n) operations.
 
 But, can we think differently?
 
-Instead of [parsing code structures](doc/architecture.md), why cannot we load
+Instead of parsing code structures, why cannot we load
 them into memory as an efficient binary structure before any further analysis?
 This would only cost O(1) operations.
 
 Motivated by empirical evidence that [Facebook engineers chose this representation for Messenger App development](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers),
 this project adopts Google's [flatbuffers](https://github.com/google/flatbuffers), a
 one-dimensional array to represent the AST as a binary file, and demonstates
-the improved efficiency and applicability to software development. 
+the improved efficiency and applicability to software development. Flatbuffers use the
+same schemata of [protobuf](https://github.com/google/protobuf) to generate its API, therefore
+it is fairly easy to manipulate the structures programmatically.
 
 [Once installed](doc/installation.md), [our tool](doc/options.md)
 [manipulates](doc/usage.md) [source code](doc/example.md) [10x
