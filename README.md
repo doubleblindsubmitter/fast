@@ -50,7 +50,7 @@ the following activities slow:
 ### *Diff-Patching* => [35x faster](doc/performance.md)
 * [treedifferencing, ASE'16](https://github.com/FAU-Inf2/treedifferencing)
 * [gumtreediff, ASE'14](https://github.com/GumTreeDiff/gumtree)
-* [mct, ASE'11](https://github.com/f-ast/meaningful-changes)
+* [mct, ASE'11](https://github.com/f-ast/mct)
 ### *Synchronisation* => [1.5x smaller for slicing](doc/performance.md)
 * [biyacc](http://biyacc.yozora.moe)
 
@@ -65,7 +65,7 @@ the following activities slow:
 *0.0.5* (August 25, 2017)
 * Integrated with [biyacc](http://biyacc.yozora.moe)
 * Created a Dockerfile to simplify the deployment
-* Implemented normalisation concept from [meaningful changes tool, ASE'11](https://github.com/f-ast/meaningful-changes)
+* Implemented normalisation concept from [meaningful changes tool, ASE'11](https://github.com/f-ast/mct)
   by migrating the [txl](http://txl.ca)-based implementation, see `-n` option
 * Rewritten the interface to speedup [gumtreediff, ASE'14](https://github.com/GumTreeDiff/gumtree) and [treedifferencing, ASE'16](https://github.com/FAU-Inf2/treedifferencing)
 * Added colors to the output of diff results so that it is possible to integrate with git on the command line interface
